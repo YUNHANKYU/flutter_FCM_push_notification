@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "682860497376",
+    "firebase_url": "https://pushfinal-82084.firebaseio.com",
+    "project_id": "pushfinal-82084",
+    "storage_bucket": "pushfinal-82084.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:682860497376:android:c9094f0084672c88",
+        "android_client_info": {
+          "package_name": "yhk.handong.edu.push_final"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "682860497376-1rs1lp0s7ohooc0of5681dm2uv9ticc0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "yhk.handong.edu.push_final",
+            "certificate_hash": "6d1b3fda846625f5ee98887ccebb2e1a59eee57a"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFixrAPGo9PxXH6S-vbQM2QrjUkOWzOws"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "682860497376-jfe1a52iseo9oie3tovl1ov9m7vfd0nk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
